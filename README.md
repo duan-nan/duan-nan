@@ -4,7 +4,7 @@
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/duan-nan/duan-nan/main/pusheencode.gif" />
 
-### I'm MuZiNan
+### I'm Punpkin 
 
 - 🔭 &nbsp; 大家好，我是程序员Pumpkin。
 - 🤔 &nbsp; 非常欢迎你来访问我的Github。
@@ -44,4 +44,4 @@
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 >
-⭐️ From [MuZiNan](https://github.com/duan-nan)
+⭐️ From [Punpkin](https://github.com/duan-nan)
