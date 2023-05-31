@@ -1,6 +1,6 @@
 ## Hello GitHub Fans 👋
-[![CSDN](https://img.shields.io/badge/CSDN-%E6%9C%A8%E5%AD%97%E6%A5%A0-brightgreen?style=social&logo=apachecouchdb)](https://blog.csdn.net/nanshen__?spm=1000.2115.3001.5343)
-[![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E6%9C%A8%E5%AD%97%E6%A5%A0-brightgreen?style=social&logo=addthis)](https://juejin.cn/user/1337436521114493)
+[![CSDN](https://img.shields.io/badge/CSDN-Pumpkin-orange)](https://blog.csdn.net/nanshen__?spm=1000.2115.3001.5343)
+[![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-Pumpkin-orange)](https://juejin.cn/user/207152608456365)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/duan-nan/duan-nan/main/pusheencode.gif" />
 
